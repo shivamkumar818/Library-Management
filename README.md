@@ -19,10 +19,3 @@ List of Books: Display a list of all available books in the library.
 
 
 
-Usage:
-Clone the repository: git clone https://github.com/yourusername/library-management-c.git
-Compile the program: gcc library.c -o library
-Run the program: ./library
-
-
-
